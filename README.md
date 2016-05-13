@@ -19,6 +19,6 @@ Motivation
 If you want to make your own loader using ROM functions and want to speed up
 things a little, you can use header-less blocks in the tap.
 
-That's why I added a `-headerless` option to bin2tap. Other than that, it work
+That's why I added a `-headerless` option to bin2tap. Other than that, it works
 just like version 1.3.
 
